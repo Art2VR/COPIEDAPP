@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.omnivirt:omnivirt-android-sdk-0.13.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/omnivirt-android-sdk-0.13.1.aar/a20651996543e72a26eaa666ebd9b6c9/jars/libs/protobuf-java-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/omnivirt-android-sdk-0.13.1.aar/a20651996543e72a26eaa666ebd9b6c9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/omnivirt-android-sdk-0.13.1.aar/a20651996543e72a26eaa666ebd9b6c9/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.omnivirt/omnivirt-android-sdk/0.13.1/4a8f3b5538b6895bcb7182b30cdda881787b00a9/omnivirt-android-sdk-0.13.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

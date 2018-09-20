@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/8b7ce60b0d85d9ddd93fb56b01933f91d1c1e0e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_b9ddebdd1666be243076883d6e223217c7ffbdca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_ef72ec63195677754efd91c97e4f1401b6ad99c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/babbb7563776a72b183172b3500b522f62c37a24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_ac3011154047f340d714c39f0a0529060ddb3858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/090a9b0cb24ddbc90a5951531f230194286baf59/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9d30523ac669abf2f342c6f810eb22e5d9d86c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/77a988533b0bed6fd8c362188ce32de2f79f6834/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_bf51c00e46d063eb51e0c489d6f2667f3f53c448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/libs/sanselan-0_97-android-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81dd9cc83f946a447f22f570c8303df82f55ed14">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/sanselan-0_97-android-1.0.0_c8fa2ff91a31ff8486527a4338a3d7948ce9a12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_24c63d822123a13c4c68684c9bfa4485a46c46f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/f1a320e503de5145833534c58c313d7eaa264615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_9a4c072f9c8e59a1ee4d49722a103f993472680d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/d627d38637915efa9f4aa0254edb3118fe0e2e10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_d4b34cf61119c708a63809cdf56d1fafe8eae607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/87c2c7e237ae8939558b6c6ca76b584013d9c4b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_d800c20e2898f3384c53a3f21ce3fe217a3ff3c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/e910865b2c56326b2a3ca3f4e767fe4dcad818a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_c5be7e934befb49f064fc0258e0153bf5b8e9441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/libs/craftar-cloud-image-recognition-sdk-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="786b3c3aa04dddbf59a6261c475a26c77fd0a862">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/craftar-cloud-image-recognition-sdk-android_0d1d5dd92eb379a031e63705a06062d561afb76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/045824fc3d9a6877f09eafb825533f947b843322/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_e1071d73172879efa95766bcd38e6f51ac4ef9a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/9d55008182efc9b41ae81eaadd56f3cf768cd13d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_34b3d4f2cc923194f262dedcb784c0e081db7741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/e1f6afc54ca55a63cb786c953620c6eeec10beb8/output/jars/libs/protobuf-java-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c11657f044ffe45b7da9efd5c47eaef1ad4be58">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/protobuf-java-3.0.0_f1b76e1c18e685a154b447da95de6b254c772828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/090a9b0cb24ddbc90a5951531f230194286baf59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_33a069cd59ac4bc4b0f450c8b3c39a1c213c0a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/1fa142ede74de0de10d5da5696550a842d7be641/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_a74a08951a7fed1ad4b545299e01d452e5573c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/69a8d45a6ebdebe4847a1c2a8251988a0eeb7976/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_96ed1146ccbbbd8149e2248e727eb1e281024cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/e1f6afc54ca55a63cb786c953620c6eeec10beb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb59c6ac64115236e60e1168bb843a0d7f70853c">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_6c5028b7d752f6aa0c43fe998a770c5966f357fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/9b9acdfc421e75eef1b65d7353ee4e53c2e317b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_2d6df08ab8622fee79b31d2a1d072403c6ed95a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/051cbaa8af41a0d2ced385444d8d705b170d65ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_45b4044e42686bf12c6dc718c58e7210c01b1bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/theowilliams/.android/build-cache/1826648a63336d77e32fb411c6e07f8faa8250e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/pre-dexed/debug/classes_797485db35f6e93a9af4741af4205ec83376a1c9.jar" />
+    </item>
+
+</items>

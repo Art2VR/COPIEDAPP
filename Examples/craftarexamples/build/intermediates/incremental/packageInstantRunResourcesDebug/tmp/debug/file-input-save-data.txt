@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Aug 19 21:40:51 BST 2018
+1.base=/Users/theowilliams/AndroidStudioProjects/COPIEDAPP/Examples/craftarexamples/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=fonts/HindGuntur-SemiBold.ttf
+0.set=ASSET
+0.base=/Users/theowilliams/AndroidStudioProjects/COPIEDAPP/Examples/craftarexamples/build/intermediates/assets/debug
+1.path=fonts/HindGuntur-Bold.ttf

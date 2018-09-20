@@ -1,0 +1,4 @@
+#Wed Apr 04 22:39:18 BST 2018
+base.0=/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/theowilliams/SDKs/craftar-cloud-image-recognition-sdk-android/Examples/craftarexamples/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

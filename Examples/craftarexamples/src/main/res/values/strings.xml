@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paintings As Portals</string>
+    <string name="title_activity_main">CraftAR SDK</string>
+    <string name="action_settings">Settings</string>
+    <string name="launchers_howto">Click below to launch ART2VR Painting Portal</string>
+    <string name="launchers_reco_only">PAINTING PORTAL</string>
+
+    <string name="launchers_signup">Sign Up</string>
+    <string name="launchers_about">About Art2VR</string>
+    <string name="launchers_no_account">No account yet?</string>
+
+    <!-- HOWTO PAGES -->
+
+    <!-- MAIN -->
+    <string name="howto_title">How to use Paintings As Portals</string>
+    <string name="howto_1">1. Press the start button.</string>
+    <string name="howto_2">2. Point your mobile camera at your framed Art2VR picture.</string>
+    <string name="howto_3">3. Press the TAP TO SCAN button.</string>
+    <string name="howto_4">4. Wait for Art2VR Painting Portal to launch.</string>
+    <string name="howto_5">5. Rotate your mobile to landscape orientation.</string>
+    <string name="howto_6">6. Insert your mobile in your VR Viewer to enjoy your virtual tour of the landscape.</string>
+
+    <!-- COMMON -->
+    <string name="howto_common_ref_image">Just TAP THIS TO SCAN:</string>
+    <string name="howto_common_workflow">How To Open the Portal:</string>
+    <string name="howto_common_workflow_1">1. Scan your framed painting.</string>
+    <string name="howto_common_workflow_2">2. Rotate mobile to landscape.</string>
+    <string name="howto_common_workflow_3">3. Insert mobile into VR Viewer.</string>
+    <string name="howto_common_workflow_4">4. Follow on-screen instructions.</string>
+    <string name="howto_common_workflow_5">   GAZE controls allow you to navigate by staring at direction arrows hovering in your view.</string>
+
+    <!-- RECOGNITION ONLY -->
+    <string name="howto_reco_title">Art2VR\'s Paintings As Portals allows you to launch into your framed picture for an immersive VR tour of the landscape.</string>
+    <string name="howto_reco_workflow_3">3. Insert mobile into VR Viewer.</string>
+    <string name="howto_reco_about_scene_2">2. Select the IR (Recognition only) item type</string>
+    <string name="howto_reco_about_scene_3">3. Set the item\'s url</string>
+
+
+    <!-- EXAMPLE ACTIVITIES STRINGS -->
+    <string name="recognition_only_tap">Tap to scan</string>
+    <string name="recognition_only_toast_picture_error">Error trying to snap a photo.</string>
+    <string name="recognition_only_toast_nothing_found">Nothing found. Point at the reference image.</string>
+    <string name="title_activity_howto_activity">HowtoActivity</string>
+    <string name="title_activity_howto">HowtoActivity</string>
+    <string name="title_activity_howto_only_recognition">HowtoOnlyRecognitionActivity</string>
+    <string name="todo">TODO</string>
+
+</resources>
